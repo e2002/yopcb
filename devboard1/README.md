@@ -1,1 +1,7 @@
-yoradio dev board v1.2
+## yoradio dev board v1.2
+
+- [Bill of materials](yodevbrd_v1.2_BOM.pdf)
+- [Schematic](yodevbrd_v1.2_SCH.pdf)
+- [Preview](yodevbrd_v1.2_PRV.jpg)
+
+<a href="https://www.pcbway.com/project/shareproject/yoRadio_Dev_board_v1_2_935e56ed.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
