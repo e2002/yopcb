@@ -1,2 +1,2 @@
 # yopcb
-PD boards for yoRadio and more
+PC boards for yoRadio and more
