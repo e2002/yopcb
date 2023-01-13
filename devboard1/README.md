@@ -8,4 +8,4 @@
 - [Preview](yodevbrd_v1.2_PRV.jpg)
 
 ## Order
-<a href="https://www.pcbway.com/project/shareproject/yoRadio_Dev_board_v1_2_935e56ed.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/yoRadio_Dev_board_v1_2_935e56ed.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
