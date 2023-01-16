@@ -1,5 +1,5 @@
 ## yoradio dev board v1.2
-<img src="yodevbrd_v1.2_PRV.jpg" width="240" height="ayto" />
+<img src="yodevbrd_v1.2_PRV.jpg" width="240" height="auto" />
 
 ---
 - [Gerber files](gbrv2.zip)
