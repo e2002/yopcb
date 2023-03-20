@@ -8,4 +8,4 @@
 - [Preview](vs1053shield_v2_02.jpg)
 
 ## Order
-_Will be added later_
+<a href="https://www.pcbway.com/project/shareproject/yoRadio_VS1053B_Shield_rev_2_8f12d5d9.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
