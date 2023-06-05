@@ -3,7 +3,7 @@
 
 ---
 - [Gerber files](yodevbrd_v1.3_GBR.zip)
-- [Bill of materials](yodevbrd_v1.2_BOM.pdf)
+- [Bill of materials](yodevbrd_v1.3_BOM.pdf)
 - [Schematic](yodevbrd_v1.3_SCH.pdf)
 - [Preview](yodevbrd_v1.3_PRV.jpg)
 
