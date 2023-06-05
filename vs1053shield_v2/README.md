@@ -1,4 +1,4 @@
-## yoradio VS1053B Shield rev.2
+## yoradio VS1053B Shield rev2.2
 <img src="vs1053shield_v2_01.jpg" width="240" height="auto" />
 
 ---
@@ -21,7 +21,6 @@
 ```
 #define LED_BUILTIN          2
 #define DSP_MODEL            DSP_<your_display>
-#define I2C_SDA              3
 #define I2S_DOUT             255
 #define VS1053_CS            27
 #define MUTE_PIN             13
@@ -39,5 +38,3 @@
 //#define ENC2_BTNR            35
 //#define ENC2_INTERNALPULLUP  false
 ```
-## Order
-<a href="https://www.pcbway.com/project/shareproject/yoRadio_VS1053B_Shield_rev_2_8f12d5d9.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
