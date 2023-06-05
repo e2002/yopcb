@@ -1,11 +1,9 @@
-## yoradio dev board v1.2
-<img src="yodevbrd_v1.2_PRV.jpg" width="240" height="auto" />
+## yoradio dev board v1.3
+<img src="yodevbrd_v1.3_PRV.jpg" width="240" height="auto" />
 
 ---
-- [Gerber files](gbrv2.zip)
+- [Gerber files](yodevbrd_v1.3_GBR.zip)
 - [Bill of materials](yodevbrd_v1.2_BOM.pdf)
-- [Schematic](yodevbrd_v1.2_SCH.pdf)
-- [Preview](yodevbrd_v1.2_PRV.jpg)
+- [Schematic](yodevbrd_v1.3_SCH.pdf)
+- [Preview](yodevbrd_v1.3_PRV.jpg)
 
-## Order
-<a href="https://www.pcbway.com/project/shareproject/yoRadio_Dev_board_v1_2_935e56ed.html" target="_blank"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
